@@ -1,0 +1,16 @@
+.CardV{
+    background-color: white;
+    border-color:white solid 3px;
+    border-radius: 20px ;
+    margin: 50px;
+     color:#000000;
+     text-decoration: none;
+}
+a.card-link{
+    text-decoration: none;
+      color:#000000;
+}
+
+.details{
+  font-size: 0.9em;
+}
